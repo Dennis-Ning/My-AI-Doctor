@@ -1,0 +1,6 @@
+# 总体架构中使用的工具:
+# Flask web服务框架
+# Redis数据库
+# Gunicorn服务组件
+# Supervisor服务监控器
+# Neo4j图数据库
